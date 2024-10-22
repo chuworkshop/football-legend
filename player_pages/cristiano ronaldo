@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cristiano Ronaldo - Legendary Football Players</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #007BFF;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        main {
+            max-width: 900px;
+            margin: 20px auto;
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .player-info {
+            text-align: center;
+        }
+        .player-info img {
+            border-radius: 50%;
+            width: 200px;
+            height: 200px;
+        }
+        .player-info h1 {
+            margin-top: 10px;
+        }
+        .player-info p {
+            font-size: 1.2em;
+            color: #555;
+        }
+        .career-highlights {
+            margin-top: 20px;
+        }
+        .career-highlights h2 {
+            color: #007BFF;
+        }
+        .career-highlights ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .career-highlights li {
+            background-color: #f9f9f9;
+            margin: 10px 0;
+            padding: 10px;
+            border-left: 5px solid #007BFF;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Cristiano Ronaldo (CR7)</h1>
+</header>
+
+<main>
+    <div class="player-info">
+        <img src="https://yourimageurl.com/ronaldo-profile.jpg" alt="Cristiano Ronaldo">
+        <h1>Cristiano Ronaldo</h1>
+        <p>Portuguese footballer known for his incredible athleticism, goal-scoring ability, and leadership on the field. Ronaldo is widely regarded as one of the greatest players in the history of the sport.</p>
+    </div>
+
+    <section class="career-highlights">
+        <h2>Career Highlights</h2>
+        <ul>
+            <li>5-time Ballon d'Or winner</li>
+            <li>Top scorer in UEFA Champions League history</li>
+            <li>Won 5 UEFA Champions League titles</li>
+            <li>Most international goals in history (over 120 for Portugal)</li>
+            <li>Won major titles with Manchester United, Real Madrid, Juventus, and Portugal</li>
+            <li>UEFA Euro 2016 and UEFA Nations League winner with Portugal</li>
+            <li></li>
+        </ul>
+    </section>
+
+    <section class="news-updates">
+        <h2>Latest News</h2>
+        <p>Stay updated with the latest news about Ronaldo, his recent matches, transfers, and off-field activities.</p>
+        <!-- You can add links to recent articles or embed social media posts here -->
+    </section>
+</main>
+
+<footer>
+    <p>&copy; 2024 Legendary Football Players Fan Page</p>
+</footer>
+
+</body>
+</html>
